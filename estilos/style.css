@@ -116,6 +116,6 @@ footer a:hover{
     padding: 20px;
     transition-duration: .3s;
     border-radius: 30px;
-    background-color: black;
+    background-color: rgb(7, 7, 214);
     color: white;
 }
