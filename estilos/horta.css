@@ -69,3 +69,8 @@ main section{
     margin-bottom: 30px;
     padding: 2px;
 }
+main img{
+    width: 500px;
+    margin: auto;
+    display: block;
+}
